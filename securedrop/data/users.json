@@ -1,0 +1,15 @@
+{
+  "MaryAnne@gmail.com": {
+    "full_name": "Mary Anne",
+    "email": "MaryAnne@gmail.com",
+    "password": "12345678",
+    "contacts": []
+  },
+  "bob@securedrop.org": {
+    "full_name": "Bob Wilson",
+    "email": "bob@securedrop.org",
+    "password_hash": "75dc81a0d70927cd55265e02bdf8a60f3ce539b8bcca54badddf7a09fa905b71",
+    "salt": "33bd97806681d37e42401fef26bca65b3f438fe043d31c35e3a4ca57996d81b7",
+    "contacts": []
+  }
+}
