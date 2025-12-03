@@ -8,7 +8,7 @@ A Python-based secure file transfer application similar to Apple's AirDrop, feat
 SecureDrop allows users to securely transfer files to contacts on the same local network. The application emphasizes cryptographic security including password hashing, mutual authentication, and encrypted file transfers.
 
 ### 📋 Milestones
-- **Milestone 1**: User Registration & Storage (in the securedrop folder) ✅ **COMPLETED**
+- **Milestone 1**: User Registration & Storage (in the securedrop folder) 
 - **Milestone 2**: User Login & Authentication
 - **Milestone 3**: Contact Management
 - **Milestone 4**: Network Discovery & Contact Listing
